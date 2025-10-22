@@ -1,0 +1,12 @@
+googletrans==3.1.0a0
+openai==0.28.0
+PyAudio
+PyAutoGUI==0.9.54
+pyjokes==0.6.0
+python-dotenv==1.0.0
+pyttsx3==2.90
+pywhatkit==5.4
+pywikihow==0.5.7
+SpeechRecognition==3.10.0
+selenium==4.20.0
+wikipedia==1.4.0
